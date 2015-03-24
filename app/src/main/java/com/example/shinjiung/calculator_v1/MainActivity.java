@@ -1,8 +1,6 @@
 package com.example.shinjiung.calculator_v1;
 
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
 import android.view.View.OnClickListener;
 import android.os.Bundle;
 import android.view.LayoutInflater;
